@@ -8,35 +8,6 @@ Spiritual GPT utilizes OpenAI Chat gpt 3.5 turbo to understand the context of us
 Spiritual GPT can provide a variety of services such as answering questions related to religious beliefs, providing guidance on spiritual practices and rituals, offering inspirational quotes and verses, and more. It can also provide users with daily readings and meditations based on their preferences.
 
 
-
-## 🛠 Tech Used
-<div align="left"> 
-Frontend 
-<br/> 
-<br/> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="Framer Motion" height="50" /></a>
-<br/> 
-<br/>  
-Backend 
-<br/> 
-<br/> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-
-</div>  
-
-## Demo
-[<h1>https://spiritualgpt.vercel.app/</h1>](https://gpt-beta-ten-57.vercel.app/)
-
-
- 
-![output.gif](output.gif)
-
-
 ## Installation and Running Locally
 
 Install Spiritual GPT with yarn
